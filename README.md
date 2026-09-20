@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:2C2A4A&height=220&section=header&text=Syed%20Ali%20Kazmi&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=E6E6FA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:2C2A4A&height=220&section=header&text=Syed%20Shehbaz%20Ali%20Kazmi&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=E6E6FA" width="100%"/>
 
 <a href="https://www.linkedin.com/in/syed-ali-kazmi-6232062a0/">
   <img src="https://img.shields.io/badge/LinkedIn-1B1F3B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
@@ -22,15 +22,14 @@
 ### 💫 About Me
 
 ```yaml
-name: Syed Ali Kazmi
-role: Computer Science & Artificial Intelligence Student
+name: Syed Ali Shehbaz Kazmi
+role: Artificial Intelligence Student
 location: Karachi, Pakistan
 email: syedalikazmi938@gmail.com
 focus: [AI, Data Analytics, Software Development, Full Stack]
 currently_building: [AI Projects, Web Applications, Data Analytics Tools]
 currently_learning: [Advanced Python, Data Science, Cloud Technologies]
 collaborate_on: [Python, Machine Learning, Startup Ideas]
-seeking_help_with: [Advanced AI, Full Stack Development]
 ask_me_about: [Python, GitHub, AI Tools, Beginner Tech Guidance]
 goal: Build a successful AI startup and work internationally
 fun_fact: I love turning ideas into real digital products ✨
