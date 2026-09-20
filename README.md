@@ -149,7 +149,7 @@ I'm always open to interesting conversations about **AI, Machine Learning, Data 
 <a href="mailto:syedalikazmi938@gmail.com">
   <img src="https://img.shields.io/badge/syedalikazmi938%40gmail.com-1B1F3B?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
-<a href="https://www.linkedin.com/in/syed-ali-kazmi-6232062a0/">
+<a href="https://www.linkedin.com/in/syed-ali-shehbaz-kazmi-6232062a0/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1B1F3B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 
