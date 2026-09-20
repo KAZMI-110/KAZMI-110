@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:2C2A4A&height=220&section=header&text=Syed%20Shehbaz%20Ali%20Kazmi&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=E6E6FA" width="100%"/>
 
-<a href="https://www.linkedin.com/in/syed-ali-kazmi-6232062a0/">
+<a href="https://www.linkedin.com/in/syed-ali-shehbaz-kazmi-6232062a0/">
   <img src="https://img.shields.io/badge/LinkedIn-1B1F3B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 <a href="mailto:syedalikazmi938@gmail.com">
